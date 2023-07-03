@@ -2,3 +2,4 @@ fetch check
 pull check
 local check
 merge test
+merge test 2
