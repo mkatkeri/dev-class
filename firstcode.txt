@@ -1,2 +1,3 @@
 fetch check
 pull check
+local check
